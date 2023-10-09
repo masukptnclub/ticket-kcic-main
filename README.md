@@ -10,6 +10,7 @@ Cara pakai:
 5. udah run semua instalasi itu? baru buka dengan "node index.js"
 6. isi sesuai fromat yg diminta, terus tunggu sampai tiketnya ada
 7. Kalo ada ya langsung ngewar
+8. Kalau mau ada notif telegram, setting dulu di index.js
 
    TIPS WAR
    1. SET DATA + AKUN DULU, BIKIN AKUN DULU DI TICKET.KCIC.CO.ID, KE PROFIL ISI DATA PENUMPANG YG MAU NAIK
